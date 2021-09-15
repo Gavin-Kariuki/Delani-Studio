@@ -31,7 +31,7 @@ https://gavin-kariuki.github.io/Delani-Studio/
 | Enter your name               |              Gavin Kimani               |                                                                                        |
 | Enter your Email Address      | gavin.kariuki@student.moringaschool.com |                                                                                        |
 | Enter your message or comment |          Delani studios website           |                                                                                        |
-| Press Submit                  |                                        | Pop up "Gavin Kariuki , we have received your message. Thank you for reaching out to us. |
+| Press Submit                  |                                        | Pop up "Gavin Kariuki", we have received your message. Thank you for reaching out to us. |
 
 ## Contact Information
 
