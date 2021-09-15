@@ -24,15 +24,20 @@ body{
 .main-services{
     background-image: url('../img/s_image.jpeg');
     background-size: cover;
-    height: 30vh;
+    height: 40vh;
+    
 }
 
 .service-details{
-    margin-top: 8rem;
+    margin-top: 13rem;
 }
 
-#serviceH1{
-    margin-top: 5px;
+.service-details h3{
+    padding-top: 5rem;
+}
+
+#paraservices{
+    margin-top: 5rem;
 }
 
 .kufanya h3{
@@ -60,7 +65,7 @@ body{
 }
 
 #contactTitle{
-    margin-top: 5px;
+    margin-top: 5rem;
 }
 
 .form-buda{
@@ -74,6 +79,10 @@ body{
 }
 .form-control::placeholder {
     color: white !important;
+}
+
+#hover1, #hover2, #hover3, #hover4, #hover5, #hover6, #hover7, #hover8{
+    display: none;
 }
 
 

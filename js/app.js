@@ -19,7 +19,20 @@ $(document).ready(function(){
     $('#whatTitle').css('font-weight', 'bold');
     $('#contactTitle').css('font-weight', 'bold');
     $('#contactTitle').css('color', 'white');
+    $('#portfolioHeader').css('font-weight', 'bold');
+    $('#serviceHeader').css('font-weight', 'bold'); 
+    $('#contactTitle').css('padding-top', 40);
     // css //
+
+    // hover effect //
+    $('#hoverPara').hover(function() {
+        $(this).animate({opacity: '1'})
+    },
+    function(){
+        $(this).animate({opacity:'0'})
+    })
+    // hover effect //
+    
 
     // js function for validation // 
     $('#target').submit(function(event){

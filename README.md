@@ -12,6 +12,11 @@ This project is a web application landing page for Delani studio that shows deta
 
 https://gavin-kariuki.github.io/Delani-Studio/
 
+## Setup Properties
+
+- No setup required for this website
+- simple to navigate through
+
 ## Technologies Used
 
 - [HTML5](https://github.com/topics/html5)
